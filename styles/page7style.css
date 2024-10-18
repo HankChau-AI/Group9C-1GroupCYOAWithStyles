@@ -29,10 +29,7 @@ h1{
 }
 
 img{
-    position: absolute;
-    right: 1175px;
-    bottom: -20px;
-    z-index: -1;
-    height: 700px;
- }
- 
+   position: absolute;
+   top: 20px;
+   justify-content: end;
+}

@@ -12,6 +12,13 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+h3{
+    color: yellow;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 
 
 .container{
@@ -29,10 +36,10 @@ h1{
 }
 
 img{
-    position: absolute;
-    right: 1175px;
-    bottom: -20px;
-    z-index: -1;
-    height: 700px;
- }
- 
+   position: absolute;
+   right: 1150px;
+   bottom: 10px;
+   z-index: -1;
+   height: 650px;
+}
+
